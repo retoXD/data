@@ -1,0 +1,9 @@
+part_type,part,notes
+CPU,AMD Ryzen 5 5600,PBO Enabled
+GPU,AMD Radeon Vega 7,Pre-allocated 2GB VRAM in BIOS (Game Optimized)
+CPU Cooler,Asetek 280,"Gen 6 Pump, Two Arctic P14 PWM CO PST fans, top mount"
+RAM,16GB (2x8) G.skill,XMP 4400/19-19-19-39 @1.4V
+Motherboard,Gigabyte B550I AORUS PRO AX,"Rev 1.0, BIOS F14"
+PSU,Seasonic Prime 550W,Platinum
+Storage,Samsung 980 Pro (1TB) Corsair 510 (2TB),
+Case,Sliger SM580,"Test Bench Setup, No Panels, PSU outside"

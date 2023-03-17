@@ -1,0 +1,433 @@
+ram_mts,ram_timings,gpu_core_mhz,benchmark,score_type,score
+2133,16-16-16-36,1900,Tomb Raider 2013,FPS,42.4
+2133,16-16-16-36,1900,Assassin's Creed Odyssey,Frames,1554
+2133,16-16-16-36,1900,Shadow of the Tomb Raider,Frames,3340
+2133,16-16-16-36,1900,Middle Earth: Shadow of War,FPS,21.14164904862579
+2133,16-16-16-36,1900,Metro Exodus,FPS,34.68
+2133,16-16-16-36,1900,GeekBench 5 Vulkan Compute,Score,14722
+2133,16-16-16-36,1900,Tomb Raider 2013,FPS,41.7
+2133,16-16-16-36,1900,Assassin's Creed Odyssey,Frames,1552
+2133,16-16-16-36,1900,Shadow of the Tomb Raider,Frames,3345
+2133,16-16-16-36,1900,Middle Earth: Shadow of War,FPS,21.09704641350211
+2133,16-16-16-36,1900,Metro Exodus,FPS,34.88
+2133,16-16-16-36,1900,GeekBench 5 Vulkan Compute,Score,14759
+2133,16-16-16-36,1900,Tomb Raider 2013,FPS,41.8
+2133,16-16-16-36,1900,Assassin's Creed Odyssey,Frames,1553
+2133,16-16-16-36,1900,Shadow of the Tomb Raider,Frames,3342
+2133,16-16-16-36,1900,Middle Earth: Shadow of War,FPS,21.09704641350211
+2133,16-16-16-36,1900,Metro Exodus,FPS,34.62
+2133,16-16-16-36,1900,GeekBench 5 Vulkan Compute,Score,14895
+2133,16-16-16-36,2100,Tomb Raider 2013,FPS,42.6
+2133,16-16-16-36,2100,Assassin's Creed Odyssey,Frames,1565
+2133,16-16-16-36,2100,Shadow of the Tomb Raider,Frames,3395
+2133,16-16-16-36,2100,Middle Earth: Shadow of War,FPS,21.14164904862579
+2133,16-16-16-36,2100,Metro Exodus,FPS,35.74
+2133,16-16-16-36,2100,GeekBench 5 Vulkan Compute,Score,15118
+2133,16-16-16-36,2100,Tomb Raider 2013,FPS,43.1
+2133,16-16-16-36,2100,Assassin's Creed Odyssey,Frames,1547
+2133,16-16-16-36,2100,Shadow of the Tomb Raider,Frames,3389
+2133,16-16-16-36,2100,Middle Earth: Shadow of War,FPS,20.876826722338205
+2133,16-16-16-36,2100,Metro Exodus,FPS,35.5
+2133,16-16-16-36,2100,GeekBench 5 Vulkan Compute,Score,15137
+2133,16-16-16-36,2100,Tomb Raider 2013,FPS,42.6
+2133,16-16-16-36,2100,Assassin's Creed Odyssey,Frames,1564
+2133,16-16-16-36,2100,Shadow of the Tomb Raider,Frames,3388
+2133,16-16-16-36,2100,Middle Earth: Shadow of War,FPS,20.964360587002098
+2133,16-16-16-36,2100,Metro Exodus,FPS,36.02
+2133,16-16-16-36,2100,GeekBench 5 Vulkan Compute,Score,15362
+2133,16-16-16-36,2300,Tomb Raider 2013,FPS,43
+2133,16-16-16-36,2300,Assassin's Creed Odyssey,Frames,1592
+2133,16-16-16-36,2300,Shadow of the Tomb Raider,Frames,3487
+2133,16-16-16-36,2300,Middle Earth: Shadow of War,FPS,21.36752136752137
+2133,16-16-16-36,2300,Metro Exodus,FPS,35.82
+2133,16-16-16-36,2300,GeekBench 5 Vulkan Compute,Score,15808
+2133,16-16-16-36,2300,Tomb Raider 2013,FPS,43
+2133,16-16-16-36,2300,Assassin's Creed Odyssey,Frames,1593
+2133,16-16-16-36,2300,Shadow of the Tomb Raider,Frames,3457
+2133,16-16-16-36,2300,Middle Earth: Shadow of War,FPS,21.36752136752137
+2133,16-16-16-36,2300,Metro Exodus,FPS,35.78
+2133,16-16-16-36,2300,GeekBench 5 Vulkan Compute,Score,16274
+2133,16-16-16-36,2300,Tomb Raider 2013,FPS,43
+2133,16-16-16-36,2300,Assassin's Creed Odyssey,Frames,1597
+2133,16-16-16-36,2300,Shadow of the Tomb Raider,Frames,3481
+2133,16-16-16-36,2300,Middle Earth: Shadow of War,FPS,21.32196162046908
+2133,16-16-16-36,2300,Metro Exodus,FPS,35.77
+2133,16-16-16-36,2300,GeekBench 5 Vulkan Compute,Score,16265
+2133,16-16-16-36,2500,Tomb Raider 2013,FPS,43.6
+2133,16-16-16-36,2500,Assassin's Creed Odyssey,Frames,1572
+2133,16-16-16-36,2500,Shadow of the Tomb Raider,Frames,3468
+2133,16-16-16-36,2500,Middle Earth: Shadow of War,FPS,21.551724137931036
+2133,16-16-16-36,2500,Metro Exodus,FPS,36.07
+2133,16-16-16-36,2500,GeekBench 5 Vulkan Compute,Score,16932
+2133,16-16-16-36,2500,Tomb Raider 2013,FPS,44
+2133,16-16-16-36,2500,Assassin's Creed Odyssey,Frames,1568
+2133,16-16-16-36,2500,Shadow of the Tomb Raider,Frames,3482
+2133,16-16-16-36,2500,Middle Earth: Shadow of War,FPS,21.459227467811157
+2133,16-16-16-36,2500,Metro Exodus,FPS,36.14
+2133,16-16-16-36,2500,GeekBench 5 Vulkan Compute,Score,16984
+2133,16-16-16-36,2500,Tomb Raider 2013,FPS,44
+2133,16-16-16-36,2500,Assassin's Creed Odyssey,Frames,1570
+2133,16-16-16-36,2500,Shadow of the Tomb Raider,Frames,3455
+2133,16-16-16-36,2500,Middle Earth: Shadow of War,FPS,21.459227467811157
+2133,16-16-16-36,2500,Metro Exodus,FPS,36.07
+2133,16-16-16-36,2500,GeekBench 5 Vulkan Compute,Score,16531
+2666,16-16-16-36,1900,Tomb Raider 2013,FPS,52.1
+2666,16-16-16-36,1900,Assassin's Creed Odyssey,Frames,1993
+2666,16-16-16-36,1900,Shadow of the Tomb Raider,Frames,4084
+2666,16-16-16-36,1900,Middle Earth: Shadow of War,FPS,26.041666666666668
+2666,16-16-16-36,1900,Metro Exodus,FPS,43.54
+2666,16-16-16-36,1900,GeekBench 5 Vulkan Compute,Score,16665
+2666,16-16-16-36,1900,Tomb Raider 2013,FPS,51.6
+2666,16-16-16-36,1900,Assassin's Creed Odyssey,Frames,1989
+2666,16-16-16-36,1900,Shadow of the Tomb Raider,Frames,4085
+2666,16-16-16-36,1900,Middle Earth: Shadow of War,FPS,26.109660574412533
+2666,16-16-16-36,1900,Metro Exodus,FPS,43.63
+2666,16-16-16-36,1900,GeekBench 5 Vulkan Compute,Score,16360
+2666,16-16-16-36,1900,Tomb Raider 2013,FPS,51.8
+2666,16-16-16-36,1900,Assassin's Creed Odyssey,Frames,1995
+2666,16-16-16-36,1900,Shadow of the Tomb Raider,Frames,4080
+2666,16-16-16-36,1900,Middle Earth: Shadow of War,FPS,26.109660574412533
+2666,16-16-16-36,1900,Metro Exodus,FPS,43.84
+2666,16-16-16-36,1900,GeekBench 5 Vulkan Compute,Score,16427
+2666,16-16-16-36,2100,Tomb Raider 2013,FPS,52.9
+2666,16-16-16-36,2100,Assassin's Creed Odyssey,Frames,2019
+2666,16-16-16-36,2100,Shadow of the Tomb Raider,Frames,4183
+2666,16-16-16-36,2100,Middle Earth: Shadow of War,FPS,26.52519893899204
+2666,16-16-16-36,2100,Metro Exodus,FPS,44.81
+2666,16-16-16-36,2100,GeekBench 5 Vulkan Compute,Score,17831
+2666,16-16-16-36,2100,Tomb Raider 2013,FPS,52.9
+2666,16-16-16-36,2100,Assassin's Creed Odyssey,Frames,2013
+2666,16-16-16-36,2100,Shadow of the Tomb Raider,Frames,4202
+2666,16-16-16-36,2100,Middle Earth: Shadow of War,FPS,26.52519893899204
+2666,16-16-16-36,2100,Metro Exodus,FPS,44.97
+2666,16-16-16-36,2100,GeekBench 5 Vulkan Compute,Score,17816
+2666,16-16-16-36,2100,Tomb Raider 2013,FPS,52.8
+2666,16-16-16-36,2100,Assassin's Creed Odyssey,Frames,2021
+2666,16-16-16-36,2100,Shadow of the Tomb Raider,Frames,4195
+2666,16-16-16-36,2100,Middle Earth: Shadow of War,FPS,26.455026455026456
+2666,16-16-16-36,2100,Metro Exodus,FPS,44.92
+2666,16-16-16-36,2100,GeekBench 5 Vulkan Compute,Score,17936
+2666,16-16-16-36,2300,Tomb Raider 2013,FPS,54.3
+2666,16-16-16-36,2300,Assassin's Creed Odyssey,Frames,2055
+2666,16-16-16-36,2300,Shadow of the Tomb Raider,Frames,4280
+2666,16-16-16-36,2300,Middle Earth: Shadow of War,FPS,26.881720430107524
+2666,16-16-16-36,2300,Metro Exodus,FPS,44.66
+2666,16-16-16-36,2300,GeekBench 5 Vulkan Compute,Score,18218
+2666,16-16-16-36,2300,Tomb Raider 2013,FPS,54.2
+2666,16-16-16-36,2300,Assassin's Creed Odyssey,Frames,2046
+2666,16-16-16-36,2300,Shadow of the Tomb Raider,Frames,4271
+2666,16-16-16-36,2300,Middle Earth: Shadow of War,FPS,26.881720430107524
+2666,16-16-16-36,2300,Metro Exodus,FPS,45.03
+2666,16-16-16-36,2300,GeekBench 5 Vulkan Compute,Score,18210
+2666,16-16-16-36,2300,Tomb Raider 2013,FPS,54.7
+2666,16-16-16-36,2300,Assassin's Creed Odyssey,Frames,2060
+2666,16-16-16-36,2300,Shadow of the Tomb Raider,Frames,4264
+2666,16-16-16-36,2300,Middle Earth: Shadow of War,FPS,26.881720430107524
+2666,16-16-16-36,2300,Metro Exodus,FPS,44.73
+2666,16-16-16-36,2300,GeekBench 5 Vulkan Compute,Score,18686
+2666,16-16-16-36,2500,Tomb Raider 2013,FPS,54.8
+2666,16-16-16-36,2500,Assassin's Creed Odyssey,Frames,2054
+2666,16-16-16-36,2500,Shadow of the Tomb Raider,Frames,4382
+2666,16-16-16-36,2500,Middle Earth: Shadow of War,FPS,27.027027027027028
+2666,16-16-16-36,2500,Metro Exodus,FPS,46.02
+2666,16-16-16-36,2500,GeekBench 5 Vulkan Compute,Score,19729
+2666,16-16-16-36,2500,Tomb Raider 2013,FPS,55.1
+2666,16-16-16-36,2500,Assassin's Creed Odyssey,Frames,2055
+2666,16-16-16-36,2500,Shadow of the Tomb Raider,Frames,4363
+2666,16-16-16-36,2500,Middle Earth: Shadow of War,FPS,27.100271002710027
+2666,16-16-16-36,2500,Metro Exodus,FPS,46.06
+2666,16-16-16-36,2500,GeekBench 5 Vulkan Compute,Score,19771
+2666,16-16-16-36,2500,Tomb Raider 2013,FPS,55.1
+2666,16-16-16-36,2500,Assassin's Creed Odyssey,Frames,2045
+2666,16-16-16-36,2500,Shadow of the Tomb Raider,Frames,4365
+2666,16-16-16-36,2500,Middle Earth: Shadow of War,FPS,27.17391304347826
+2666,16-16-16-36,2500,Metro Exodus,FPS,46.29
+2666,16-16-16-36,2500,GeekBench 5 Vulkan Compute,Score,19783
+3200,16-16-16-36,1900,Tomb Raider 2013,FPS,60.9
+3200,16-16-16-36,1900,Assassin's Creed Odyssey,Frames,2369
+3200,16-16-16-36,1900,Shadow of the Tomb Raider,Frames,4694
+3200,16-16-16-36,1900,Middle Earth: Shadow of War,FPS,30.8641975308642
+3200,16-16-16-36,1900,Metro Exodus,FPS,49.35
+3200,16-16-16-36,1900,GeekBench 5 Vulkan Compute,Score,18322
+3200,16-16-16-36,1900,Tomb Raider 2013,FPS,60.6
+3200,16-16-16-36,1900,Assassin's Creed Odyssey,Frames,2372
+3200,16-16-16-36,1900,Shadow of the Tomb Raider,Frames,4694
+3200,16-16-16-36,1900,Middle Earth: Shadow of War,FPS,30.8641975308642
+3200,16-16-16-36,1900,Metro Exodus,FPS,49.41
+3200,16-16-16-36,1900,GeekBench 5 Vulkan Compute,Score,17510
+3200,16-16-16-36,1900,Tomb Raider 2013,FPS,61.3
+3200,16-16-16-36,1900,Assassin's Creed Odyssey,Frames,2376
+3200,16-16-16-36,1900,Shadow of the Tomb Raider,Frames,4703
+3200,16-16-16-36,1900,Middle Earth: Shadow of War,FPS,30.8641975308642
+3200,16-16-16-36,1900,Metro Exodus,FPS,49.35
+3200,16-16-16-36,1900,GeekBench 5 Vulkan Compute,Score,17631
+3200,16-16-16-36,2100,Tomb Raider 2013,FPS,62.3
+3200,16-16-16-36,2100,Assassin's Creed Odyssey,Frames,2439
+3200,16-16-16-36,2100,Shadow of the Tomb Raider,Frames,4871
+3200,16-16-16-36,2100,Middle Earth: Shadow of War,FPS,31.645569620253163
+3200,16-16-16-36,2100,Metro Exodus,FPS,51.21
+3200,16-16-16-36,2100,GeekBench 5 Vulkan Compute,Score,18635
+3200,16-16-16-36,2100,Tomb Raider 2013,FPS,61.5
+3200,16-16-16-36,2100,Assassin's Creed Odyssey,Frames,2441
+3200,16-16-16-36,2100,Shadow of the Tomb Raider,Frames,4869
+3200,16-16-16-36,2100,Middle Earth: Shadow of War,FPS,31.645569620253163
+3200,16-16-16-36,2100,Metro Exodus,FPS,51.38
+3200,16-16-16-36,2100,GeekBench 5 Vulkan Compute,Score,18584
+3200,16-16-16-36,2100,Tomb Raider 2013,FPS,61.5
+3200,16-16-16-36,2100,Assassin's Creed Odyssey,Frames,2452
+3200,16-16-16-36,2100,Shadow of the Tomb Raider,Frames,4900
+3200,16-16-16-36,2100,Middle Earth: Shadow of War,FPS,31.545741324921135
+3200,16-16-16-36,2100,Metro Exodus,FPS,51.21
+3200,16-16-16-36,2100,GeekBench 5 Vulkan Compute,Score,19074
+3200,16-16-16-36,2300,Tomb Raider 2013,FPS,63.6
+3200,16-16-16-36,2300,Assassin's Creed Odyssey,Frames,2475
+3200,16-16-16-36,2300,Shadow of the Tomb Raider,Frames,5048
+3200,16-16-16-36,2300,Middle Earth: Shadow of War,FPS,32.154340836012864
+3200,16-16-16-36,2300,Metro Exodus,FPS,52.68
+3200,16-16-16-36,2300,GeekBench 5 Vulkan Compute,Score,19524
+3200,16-16-16-36,2300,Tomb Raider 2013,FPS,64.2
+3200,16-16-16-36,2300,Assassin's Creed Odyssey,Frames,2490
+3200,16-16-16-36,2300,Shadow of the Tomb Raider,Frames,5063
+3200,16-16-16-36,2300,Middle Earth: Shadow of War,FPS,32.154340836012864
+3200,16-16-16-36,2300,Metro Exodus,FPS,52.77
+3200,16-16-16-36,2300,GeekBench 5 Vulkan Compute,Score,20425
+3200,16-16-16-36,2300,Tomb Raider 2013,FPS,64.4
+3200,16-16-16-36,2300,Assassin's Creed Odyssey,Frames,2484
+3200,16-16-16-36,2300,Shadow of the Tomb Raider,Frames,5047
+3200,16-16-16-36,2300,Middle Earth: Shadow of War,FPS,32.154340836012864
+3200,16-16-16-36,2300,Metro Exodus,FPS,52.84
+3200,16-16-16-36,2300,GeekBench 5 Vulkan Compute,Score,20519
+3200,16-16-16-36,2500,Tomb Raider 2013,FPS,64.8
+3200,16-16-16-36,2500,Assassin's Creed Odyssey,Frames,2533
+3200,16-16-16-36,2500,Shadow of the Tomb Raider,Frames,5187
+3200,16-16-16-36,2500,Middle Earth: Shadow of War,FPS,32.78688524590164
+3200,16-16-16-36,2500,Metro Exodus,FPS,53.9
+3200,16-16-16-36,2500,GeekBench 5 Vulkan Compute,Score,21243
+3200,16-16-16-36,2500,Tomb Raider 2013,FPS,64.8
+3200,16-16-16-36,2500,Assassin's Creed Odyssey,Frames,2523
+3200,16-16-16-36,2500,Shadow of the Tomb Raider,Frames,5172
+3200,16-16-16-36,2500,Middle Earth: Shadow of War,FPS,32.89473684210527
+3200,16-16-16-36,2500,Metro Exodus,FPS,54.13
+3200,16-16-16-36,2500,GeekBench 5 Vulkan Compute,Score,20591
+3200,16-16-16-36,2500,Tomb Raider 2013,FPS,65.7
+3200,16-16-16-36,2500,Assassin's Creed Odyssey,Frames,2537
+3200,16-16-16-36,2500,Shadow of the Tomb Raider,Frames,5176
+3200,16-16-16-36,2500,Middle Earth: Shadow of War,FPS,32.78688524590164
+3200,16-16-16-36,2500,Metro Exodus,FPS,53.96
+3200,16-16-16-36,2500,GeekBench 5 Vulkan Compute,Score,20487
+3600,18-18-18-38,1900,Tomb Raider 2013,FPS,64.3
+3600,18-18-18-38,1900,Assassin's Creed Odyssey,Frames,2577
+3600,18-18-18-38,1900,Shadow of the Tomb Raider,Frames,5063
+3600,18-18-18-38,1900,Middle Earth: Shadow of War,FPS,33.78378378378378
+3600,18-18-18-38,1900,Metro Exodus,FPS,53.94
+3600,18-18-18-38,1900,GeekBench 5 Vulkan Compute,Score,18372
+3600,18-18-18-38,1900,Tomb Raider 2013,FPS,65.3
+3600,18-18-18-38,1900,Assassin's Creed Odyssey,Frames,2564
+3600,18-18-18-38,1900,Shadow of the Tomb Raider,Frames,5070
+3600,18-18-18-38,1900,Middle Earth: Shadow of War,FPS,33.898305084745765
+3600,18-18-18-38,1900,Metro Exodus,FPS,53.93
+3600,18-18-18-38,1900,GeekBench 5 Vulkan Compute,Score,18850
+3600,18-18-18-38,1900,Tomb Raider 2013,FPS,64.9
+3600,18-18-18-38,1900,Assassin's Creed Odyssey,Frames,2569
+3600,18-18-18-38,1900,Shadow of the Tomb Raider,Frames,5061
+3600,18-18-18-38,1900,Middle Earth: Shadow of War,FPS,33.78378378378378
+3600,18-18-18-38,1900,Metro Exodus,FPS,54.04
+3600,18-18-18-38,1900,GeekBench 5 Vulkan Compute,Score,18369
+3600,18-18-18-38,2100,Tomb Raider 2013,FPS,67.1
+3600,18-18-18-38,2100,Assassin's Creed Odyssey,Frames,2655
+3600,18-18-18-38,2100,Shadow of the Tomb Raider,Frames,5287
+3600,18-18-18-38,2100,Middle Earth: Shadow of War,FPS,34.72222222222222
+3600,18-18-18-38,2100,Metro Exodus,FPS,56.22
+3600,18-18-18-38,2100,GeekBench 5 Vulkan Compute,Score,20255
+3600,18-18-18-38,2100,Tomb Raider 2013,FPS,67
+3600,18-18-18-38,2100,Assassin's Creed Odyssey,Frames,2655
+3600,18-18-18-38,2100,Shadow of the Tomb Raider,Frames,5280
+3600,18-18-18-38,2100,Middle Earth: Shadow of War,FPS,34.84320557491289
+3600,18-18-18-38,2100,Metro Exodus,FPS,56.27
+3600,18-18-18-38,2100,GeekBench 5 Vulkan Compute,Score,19560
+3600,18-18-18-38,2100,Tomb Raider 2013,FPS,66.9
+3600,18-18-18-38,2100,Assassin's Creed Odyssey,Frames,2643
+3600,18-18-18-38,2100,Shadow of the Tomb Raider,Frames,5302
+3600,18-18-18-38,2100,Middle Earth: Shadow of War,FPS,34.72222222222222
+3600,18-18-18-38,2100,Metro Exodus,FPS,56.31
+3600,18-18-18-38,2100,GeekBench 5 Vulkan Compute,Score,20237
+3600,18-18-18-38,2300,Tomb Raider 2013,FPS,69.3
+3600,18-18-18-38,2300,Assassin's Creed Odyssey,Frames,2709
+3600,18-18-18-38,2300,Shadow of the Tomb Raider,Frames,5486
+3600,18-18-18-38,2300,Middle Earth: Shadow of War,FPS,35.587188612099645
+3600,18-18-18-38,2300,Metro Exodus,FPS,58.52
+3600,18-18-18-38,2300,GeekBench 5 Vulkan Compute,Score,21729
+3600,18-18-18-38,2300,Tomb Raider 2013,FPS,69
+3600,18-18-18-38,2300,Assassin's Creed Odyssey,Frames,2712
+3600,18-18-18-38,2300,Shadow of the Tomb Raider,Frames,5462
+3600,18-18-18-38,2300,Middle Earth: Shadow of War,FPS,35.46099290780142
+3600,18-18-18-38,2300,Metro Exodus,FPS,58.64
+3600,18-18-18-38,2300,GeekBench 5 Vulkan Compute,Score,20639
+3600,18-18-18-38,2300,Tomb Raider 2013,FPS,69.4
+3600,18-18-18-38,2300,Assassin's Creed Odyssey,Frames,2715
+3600,18-18-18-38,2300,Shadow of the Tomb Raider,Frames,5503
+3600,18-18-18-38,2300,Middle Earth: Shadow of War,FPS,35.587188612099645
+3600,18-18-18-38,2300,Metro Exodus,FPS,58.41
+3600,18-18-18-38,2300,GeekBench 5 Vulkan Compute,Score,21313
+3600,18-18-18-38,2500,Tomb Raider 2013,FPS,70.3
+3600,18-18-18-38,2500,Assassin's Creed Odyssey,Frames,2747
+3600,18-18-18-38,2500,Shadow of the Tomb Raider,Frames,5652
+3600,18-18-18-38,2500,Middle Earth: Shadow of War,FPS,36.101083032490976
+3600,18-18-18-38,2500,Metro Exodus,FPS,59.89
+3600,18-18-18-38,2500,GeekBench 5 Vulkan Compute,Score,21707
+3600,18-18-18-38,2500,Tomb Raider 2013,FPS,70.4
+3600,18-18-18-38,2500,Assassin's Creed Odyssey,Frames,2759
+3600,18-18-18-38,2500,Shadow of the Tomb Raider,Frames,5655
+3600,18-18-18-38,2500,Middle Earth: Shadow of War,FPS,36.101083032490976
+3600,18-18-18-38,2500,Metro Exodus,FPS,59.7
+3600,18-18-18-38,2500,GeekBench 5 Vulkan Compute,Score,22809
+3600,18-18-18-38,2500,Tomb Raider 2013,FPS,71.1
+3600,18-18-18-38,2500,Assassin's Creed Odyssey,Frames,2752
+3600,18-18-18-38,2500,Shadow of the Tomb Raider,Frames,5647
+3600,18-18-18-38,2500,Middle Earth: Shadow of War,FPS,35.97122302158273
+3600,18-18-18-38,2500,Metro Exodus,FPS,59.89
+3600,18-18-18-38,2500,GeekBench 5 Vulkan Compute,Score,22516
+4000,18-18-18-38,1900,Tomb Raider 2013,FPS,68.2
+4000,18-18-18-38,1900,Assassin's Creed Odyssey,Frames,2763
+4000,18-18-18-38,1900,Shadow of the Tomb Raider,Frames,5345
+4000,18-18-18-38,1900,Middle Earth: Shadow of War,FPS,36.496350364963504
+4000,18-18-18-38,1900,Metro Exodus,FPS,56.68
+4000,18-18-18-38,1900,GeekBench 5 Vulkan Compute,Score,18976
+4000,18-18-18-38,1900,Tomb Raider 2013,FPS,68.5
+4000,18-18-18-38,1900,Assassin's Creed Odyssey,Frames,2777
+4000,18-18-18-38,1900,Shadow of the Tomb Raider,Frames,5357
+4000,18-18-18-38,1900,Middle Earth: Shadow of War,FPS,36.496350364963504
+4000,18-18-18-38,1900,Metro Exodus,FPS,56.81
+4000,18-18-18-38,1900,GeekBench 5 Vulkan Compute,Score,19140
+4000,18-18-18-38,1900,Tomb Raider 2013,FPS,68.6
+4000,18-18-18-38,1900,Assassin's Creed Odyssey,Frames,2767
+4000,18-18-18-38,1900,Shadow of the Tomb Raider,Frames,5652
+4000,18-18-18-38,1900,Middle Earth: Shadow of War,FPS,36.496350364963504
+4000,18-18-18-38,1900,Metro Exodus,FPS,56.63
+4000,18-18-18-38,1900,GeekBench 5 Vulkan Compute,Score,19635
+4000,18-18-18-38,2100,Tomb Raider 2013,FPS,71.4
+4000,18-18-18-38,2100,Assassin's Creed Odyssey,Frames,2889
+4000,18-18-18-38,2100,Shadow of the Tomb Raider,Frames,5568
+4000,18-18-18-38,2100,Middle Earth: Shadow of War,FPS,37.735849056603776
+4000,18-18-18-38,2100,Metro Exodus,FPS,59.43
+4000,18-18-18-38,2100,GeekBench 5 Vulkan Compute,Score,21554
+4000,18-18-18-38,2100,Tomb Raider 2013,FPS,71.9
+4000,18-18-18-38,2100,Assassin's Creed Odyssey,Frames,2875
+4000,18-18-18-38,2100,Shadow of the Tomb Raider,Frames,5557
+4000,18-18-18-38,2100,Middle Earth: Shadow of War,FPS,37.59398496240601
+4000,18-18-18-38,2100,Metro Exodus,FPS,59.61
+4000,18-18-18-38,2100,GeekBench 5 Vulkan Compute,Score,20876
+4000,18-18-18-38,2100,Tomb Raider 2013,FPS,71.7
+4000,18-18-18-38,2100,Assassin's Creed Odyssey,Frames,2887
+4000,18-18-18-38,2100,Shadow of the Tomb Raider,Frames,5567
+4000,18-18-18-38,2100,Middle Earth: Shadow of War,FPS,37.735849056603776
+4000,18-18-18-38,2100,Metro Exodus,FPS,59.26
+4000,18-18-18-38,2100,GeekBench 5 Vulkan Compute,Score,21528
+4000,18-18-18-38,2300,Tomb Raider 2013,FPS,73.8
+4000,18-18-18-38,2300,Assassin's Creed Odyssey,Frames,2955
+4000,18-18-18-38,2300,Shadow of the Tomb Raider,Frames,5792
+4000,18-18-18-38,2300,Middle Earth: Shadow of War,FPS,38.75968992248062
+4000,18-18-18-38,2300,Metro Exodus,FPS,62.07
+4000,18-18-18-38,2300,GeekBench 5 Vulkan Compute,Score,22655
+4000,18-18-18-38,2300,Tomb Raider 2013,FPS,74.3
+4000,18-18-18-38,2300,Assassin's Creed Odyssey,Frames,2941
+4000,18-18-18-38,2300,Shadow of the Tomb Raider,Frames,5791
+4000,18-18-18-38,2300,Middle Earth: Shadow of War,FPS,38.75968992248062
+4000,18-18-18-38,2300,Metro Exodus,FPS,62.04
+4000,18-18-18-38,2300,GeekBench 5 Vulkan Compute,Score,21524
+4000,18-18-18-38,2300,Tomb Raider 2013,FPS,73.8
+4000,18-18-18-38,2300,Assassin's Creed Odyssey,Frames,2950
+4000,18-18-18-38,2300,Shadow of the Tomb Raider,Frames,5792
+4000,18-18-18-38,2300,Middle Earth: Shadow of War,FPS,38.75968992248062
+4000,18-18-18-38,2300,Metro Exodus,FPS,62.13
+4000,18-18-18-38,2300,GeekBench 5 Vulkan Compute,Score,21576
+4000,18-18-18-38,2500,Tomb Raider 2013,FPS,76.1
+4000,18-18-18-38,2500,Assassin's Creed Odyssey,Frames,3030
+4000,18-18-18-38,2500,Shadow of the Tomb Raider,Frames,6024
+4000,18-18-18-38,2500,Middle Earth: Shadow of War,FPS,39.37007874015748
+4000,18-18-18-38,2500,Metro Exodus,FPS,63.95
+4000,18-18-18-38,2500,GeekBench 5 Vulkan Compute,Score,23318
+4000,18-18-18-38,2500,Tomb Raider 2013,FPS,76.7
+4000,18-18-18-38,2500,Assassin's Creed Odyssey,Frames,3008
+4000,18-18-18-38,2500,Shadow of the Tomb Raider,Frames,6014
+4000,18-18-18-38,2500,Middle Earth: Shadow of War,FPS,39.37007874015748
+4000,18-18-18-38,2500,Metro Exodus,FPS,64.05
+4000,18-18-18-38,2500,GeekBench 5 Vulkan Compute,Score,23449
+4000,18-18-18-38,2500,Tomb Raider 2013,FPS,76
+4000,18-18-18-38,2500,Assassin's Creed Odyssey,Frames,3020
+4000,18-18-18-38,2500,Shadow of the Tomb Raider,Frames,5992
+4000,18-18-18-38,2500,Middle Earth: Shadow of War,FPS,39.21568627450981
+4000,18-18-18-38,2500,Metro Exodus,FPS,64.09
+4000,18-18-18-38,2500,GeekBench 5 Vulkan Compute,Score,23299
+4600,20-22-22-42,1900,Tomb Raider 2013,FPS,71.2
+4600,20-22-22-42,1900,Assassin's Creed Odyssey,Frames,3048
+4600,20-22-22-42,1900,Shadow of the Tomb Raider,Frames,5646
+4600,20-22-22-42,1900,Middle Earth: Shadow of War,FPS,40.16064257028113
+4600,20-22-22-42,1900,Metro Exodus,FPS,60.95
+4600,20-22-22-42,1900,GeekBench 5 Vulkan Compute,Score,20434
+4600,20-22-22-42,1900,Tomb Raider 2013,FPS,72.4
+4600,20-22-22-42,1900,Assassin's Creed Odyssey,Frames,3054
+4600,20-22-22-42,1900,Shadow of the Tomb Raider,Frames,5668
+4600,20-22-22-42,1900,Middle Earth: Shadow of War,FPS,40.16064257028113
+4600,20-22-22-42,1900,Metro Exodus,FPS,60.79
+4600,20-22-22-42,1900,GeekBench 5 Vulkan Compute,Score,21185
+4600,20-22-22-42,1900,Tomb Raider 2013,FPS,72.1
+4600,20-22-22-42,1900,Assassin's Creed Odyssey,Frames,3048
+4600,20-22-22-42,1900,Shadow of the Tomb Raider,Frames,5667
+4600,20-22-22-42,1900,Middle Earth: Shadow of War,FPS,40
+4600,20-22-22-42,1900,Metro Exodus,FPS,60.66
+4600,20-22-22-42,1900,GeekBench 5 Vulkan Compute,Score,20629
+4600,20-22-22-42,2100,Tomb Raider 2013,FPS,75
+4600,20-22-22-42,2100,Assassin's Creed Odyssey,Frames,3148
+4600,20-22-22-42,2100,Shadow of the Tomb Raider,Frames,5971
+4600,20-22-22-42,2100,Middle Earth: Shadow of War,FPS,41.32231404958678
+4600,20-22-22-42,2100,Metro Exodus,FPS,63.69
+4600,20-22-22-42,2100,GeekBench 5 Vulkan Compute,Score,22015
+4600,20-22-22-42,2100,Tomb Raider 2013,FPS,74.9
+4600,20-22-22-42,2100,Assassin's Creed Odyssey,Frames,3168
+4600,20-22-22-42,2100,Shadow of the Tomb Raider,Frames,5988
+4600,20-22-22-42,2100,Middle Earth: Shadow of War,FPS,41.32231404958678
+4600,20-22-22-42,2100,Metro Exodus,FPS,63.85
+4600,20-22-22-42,2100,GeekBench 5 Vulkan Compute,Score,21953
+4600,20-22-22-42,2100,Tomb Raider 2013,FPS,75.2
+4600,20-22-22-42,2100,Assassin's Creed Odyssey,Frames,3179
+4600,20-22-22-42,2100,Shadow of the Tomb Raider,Frames,5989
+4600,20-22-22-42,2100,Middle Earth: Shadow of War,FPS,41.32231404958678
+4600,20-22-22-42,2100,Metro Exodus,FPS,63.8
+4600,20-22-22-42,2100,GeekBench 5 Vulkan Compute,Score,22567
+4600,20-22-22-42,2300,Tomb Raider 2013,FPS,80.5
+4600,20-22-22-42,2300,Assassin's Creed Odyssey,Frames,3301
+4600,20-22-22-42,2300,Shadow of the Tomb Raider,Frames,6257
+4600,20-22-22-42,2300,Middle Earth: Shadow of War,FPS,42.73504273504274
+4600,20-22-22-42,2300,Metro Exodus,FPS,66.58
+4600,20-22-22-42,2300,GeekBench 5 Vulkan Compute,Score,24072
+4600,20-22-22-42,2300,Tomb Raider 2013,FPS,80.7
+4600,20-22-22-42,2300,Assassin's Creed Odyssey,Frames,3286
+4600,20-22-22-42,2300,Shadow of the Tomb Raider,Frames,6251
+4600,20-22-22-42,2300,Middle Earth: Shadow of War,FPS,42.918454935622314
+4600,20-22-22-42,2300,Metro Exodus,FPS,66.77
+4600,20-22-22-42,2300,GeekBench 5 Vulkan Compute,Score,23134
+4600,20-22-22-42,2300,Tomb Raider 2013,FPS,81.9
+4600,20-22-22-42,2300,Assassin's Creed Odyssey,Frames,3297
+4600,20-22-22-42,2300,Shadow of the Tomb Raider,Frames,6253
+4600,20-22-22-42,2300,Middle Earth: Shadow of War,FPS,42.73504273504274
+4600,20-22-22-42,2300,Metro Exodus,FPS,66.67
+4600,20-22-22-42,2300,GeekBench 5 Vulkan Compute,Score,23916
+4600,20-22-22-42,2500,Tomb Raider 2013,FPS,83.6
+4600,20-22-22-42,2500,Assassin's Creed Odyssey,Frames,3396
+4600,20-22-22-42,2500,Shadow of the Tomb Raider,Frames,6564
+4600,20-22-22-42,2500,Middle Earth: Shadow of War,FPS,43.859649122807014
+4600,20-22-22-42,2500,Metro Exodus,FPS,68.81
+4600,20-22-22-42,2500,GeekBench 5 Vulkan Compute,Score,25506
+4600,20-22-22-42,2500,Tomb Raider 2013,FPS,83.8
+4600,20-22-22-42,2500,Assassin's Creed Odyssey,Frames,3392
+4600,20-22-22-42,2500,Shadow of the Tomb Raider,Frames,6536
+4600,20-22-22-42,2500,Middle Earth: Shadow of War,FPS,43.66812227074236
+4600,20-22-22-42,2500,Metro Exodus,FPS,69.42
+4600,20-22-22-42,2500,GeekBench 5 Vulkan Compute,Score,24352
+4600,20-22-22-42,2500,Tomb Raider 2013,FPS,84.2
+4600,20-22-22-42,2500,Assassin's Creed Odyssey,Frames,3388
+4600,20-22-22-42,2500,Shadow of the Tomb Raider,Frames,6552
+4600,20-22-22-42,2500,Middle Earth: Shadow of War,FPS,43.66812227074236
+4600,20-22-22-42,2500,Metro Exodus,FPS,69.64
+4600,20-22-22-42,2500,GeekBench 5 Vulkan Compute,Score,23846
