@@ -1,0 +1,33 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+# PC Benchmark and Perfomance Data Collection
+
+I collect this data and use it in my Youtube videos.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(fs)
+library(tidyverse)
+
+datasets <- tibble(data_path = dir_ls("data"))
+
+datasets %>% 
+  mutate(
+    name = data_path %>% 
+      str_remove("data/") %>% 
+      str_replace_all("-", " ") %>% 
+      str_to_title(),
+    data_files = map_dbl(data_path, ~ length(list.files(path(., "data")))), 
+    link = map2(name, data_path, function(n, d) {
+     str_interp("[${n}](${path('/', d)})")
+    }),
+    date_added = Sys.Date() #TODO
+  ) %>% 
+  select(dataset = link, files = data_files, date_added) %>% 
+  knitr::kable()
+
+```
+
