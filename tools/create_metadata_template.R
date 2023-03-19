@@ -72,5 +72,3 @@ create_metadata_template <- function(dataset_name,
   
   metadata
 }
-
-

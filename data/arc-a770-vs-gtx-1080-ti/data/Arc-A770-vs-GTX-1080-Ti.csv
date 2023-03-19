@@ -1,145 +1,145 @@
-graphics_card,cpu,benchmark,resolution,settings,FPS
-Arc A770,Ryzen 5600G OC,Assassin's Creed Odyssey,1080,Ultra High,48
-Arc A770,Ryzen 5600G OC,Assassin's Creed Odyssey,1440,Ultra High,47
-Arc A770,Ryzen 5600G OC,Assassin's Creed Odyssey,2160,Ultra High,33
-Arc A770,Ryzen 5800X3D,Assassin's Creed Odyssey,1080,Ultra High,56
-Arc A770,Ryzen 5800X3D,Assassin's Creed Odyssey,1440,Ultra High,50
-Arc A770,Ryzen 5800X3D,Assassin's Creed Odyssey,2160,Ultra High,36
-GTX 1080 Ti,Ryzen 5600G OC,Assassin's Creed Odyssey,1080,Ultra High,69
-GTX 1080 Ti,Ryzen 5600G OC,Assassin's Creed Odyssey,1440,Ultra High,54
-GTX 1080 Ti,Ryzen 5600G OC,Assassin's Creed Odyssey,2160,Ultra High,37
-GTX 1080 Ti,Ryzen 5800X3D,Assassin's Creed Odyssey,1080,Ultra High,74
-GTX 1080 Ti,Ryzen 5800X3D,Assassin's Creed Odyssey,1440,Ultra High,60
-GTX 1080 Ti,Ryzen 5800X3D,Assassin's Creed Odyssey,2160,Ultra High,40
-Arc A770,Ryzen 5600G OC,Assassin's Creed Valhalla,1080,Ultra High,73
-Arc A770,Ryzen 5600G OC,Assassin's Creed Valhalla,1440,Ultra High,63
-Arc A770,Ryzen 5600G OC,Assassin's Creed Valhalla,2160,Ultra High,39
-Arc A770,Ryzen 5800X3D,Assassin's Creed Valhalla,1080,Ultra High,73
-Arc A770,Ryzen 5800X3D,Assassin's Creed Valhalla,1440,Ultra High,61
-Arc A770,Ryzen 5800X3D,Assassin's Creed Valhalla,2160,Ultra High,38
-GTX 1080 Ti,Ryzen 5600G OC,Assassin's Creed Valhalla,1080,Ultra High,72
-GTX 1080 Ti,Ryzen 5600G OC,Assassin's Creed Valhalla,1440,Ultra High,57
-GTX 1080 Ti,Ryzen 5600G OC,Assassin's Creed Valhalla,2160,Ultra High,34
-GTX 1080 Ti,Ryzen 5800X3D,Assassin's Creed Valhalla,1080,Ultra High,76
-GTX 1080 Ti,Ryzen 5800X3D,Assassin's Creed Valhalla,1440,Ultra High,61
-GTX 1080 Ti,Ryzen 5800X3D,Assassin's Creed Valhalla,2160,Ultra High,35
-Arc A770,Ryzen 5600G OC,Callisto Protocol,1080,Ultra,84
-Arc A770,Ryzen 5600G OC,Callisto Protocol,1440,Ultra,68
-Arc A770,Ryzen 5600G OC,Callisto Protocol,2160,Ultra,46
-Arc A770,Ryzen 5800X3D,Callisto Protocol,1080,Ultra,86
-Arc A770,Ryzen 5800X3D,Callisto Protocol,1440,Ultra,69
-Arc A770,Ryzen 5800X3D,Callisto Protocol,2160,Ultra,47
-GTX 1080 Ti,Ryzen 5600G OC,Callisto Protocol,1080,Ultra,69
-GTX 1080 Ti,Ryzen 5600G OC,Callisto Protocol,1440,Ultra,55
-GTX 1080 Ti,Ryzen 5600G OC,Callisto Protocol,2160,Ultra,38
-GTX 1080 Ti,Ryzen 5800X3D,Callisto Protocol,1080,Ultra,71
-GTX 1080 Ti,Ryzen 5800X3D,Callisto Protocol,1440,Ultra,57
-GTX 1080 Ti,Ryzen 5800X3D,Callisto Protocol,2160,Ultra,38
-Arc A770,Ryzen 5600G OC,Cyberpunk 2077,1080,High,64
-Arc A770,Ryzen 5600G OC,Cyberpunk 2077,1440,High,46
-Arc A770,Ryzen 5600G OC,Cyberpunk 2077,2160,High,37
-Arc A770,Ryzen 5800X3D,Cyberpunk 2077,1080,High,70
-Arc A770,Ryzen 5800X3D,Cyberpunk 2077,1440,High,57
-Arc A770,Ryzen 5800X3D,Cyberpunk 2077,2160,High,38
-GTX 1080 Ti,Ryzen 5600G OC,Cyberpunk 2077,1080,High,86
-GTX 1080 Ti,Ryzen 5600G OC,Cyberpunk 2077,1440,High,61
-GTX 1080 Ti,Ryzen 5600G OC,Cyberpunk 2077,2160,High,34
-GTX 1080 Ti,Ryzen 5800X3D,Cyberpunk 2077,1080,High,88
-GTX 1080 Ti,Ryzen 5800X3D,Cyberpunk 2077,1440,High,61
-GTX 1080 Ti,Ryzen 5800X3D,Cyberpunk 2077,2160,High,34
-Arc A770,Ryzen 5600G OC,Hitman World of Assassination,1080,Max,171
-Arc A770,Ryzen 5600G OC,Hitman World of Assassination,1440,Max,116
-Arc A770,Ryzen 5600G OC,Hitman World of Assassination,2160,Max,63
-Arc A770,Ryzen 5800X3D,Hitman World of Assassination,1080,Max,168
-Arc A770,Ryzen 5800X3D,Hitman World of Assassination,1440,Max,114
-Arc A770,Ryzen 5800X3D,Hitman World of Assassination,2160,Max,62
-GTX 1080 Ti,Ryzen 5600G OC,Hitman World of Assassination,1080,Max,154
-GTX 1080 Ti,Ryzen 5600G OC,Hitman World of Assassination,1440,Max,96
-GTX 1080 Ti,Ryzen 5600G OC,Hitman World of Assassination,2160,Max,55
-GTX 1080 Ti,Ryzen 5800X3D,Hitman World of Assassination,1080,Max,154
-GTX 1080 Ti,Ryzen 5800X3D,Hitman World of Assassination,1440,Max,96
-GTX 1080 Ti,Ryzen 5800X3D,Hitman World of Assassination,2160,Max,53
-Arc A770,Ryzen 5600G OC,Horizon Zero Dawn,1080,Max,73
-Arc A770,Ryzen 5600G OC,Horizon Zero Dawn,1440,Max,71
-Arc A770,Ryzen 5600G OC,Horizon Zero Dawn,2160,Max,47
-Arc A770,Ryzen 5800X3D,Horizon Zero Dawn,1080,Max,92
-Arc A770,Ryzen 5800X3D,Horizon Zero Dawn,1440,Max,82
-Arc A770,Ryzen 5800X3D,Horizon Zero Dawn,2160,Max,47
-GTX 1080 Ti,Ryzen 5600G OC,Horizon Zero Dawn,1080,Max,92
-GTX 1080 Ti,Ryzen 5600G OC,Horizon Zero Dawn,1440,Max,75
-GTX 1080 Ti,Ryzen 5600G OC,Horizon Zero Dawn,2160,Max,43
-GTX 1080 Ti,Ryzen 5800X3D,Horizon Zero Dawn,1080,Max,95
-GTX 1080 Ti,Ryzen 5800X3D,Horizon Zero Dawn,1440,Max,75
-GTX 1080 Ti,Ryzen 5800X3D,Horizon Zero Dawn,2160,Max,43
-Arc A770,Ryzen 5600G OC,Metro Exodus,1080,Max ,82
-Arc A770,Ryzen 5600G OC,Metro Exodus,1440,Max ,69
-Arc A770,Ryzen 5600G OC,Metro Exodus,2160,Max ,46
-Arc A770,Ryzen 5800X3D,Metro Exodus,1080,Max ,84
-Arc A770,Ryzen 5800X3D,Metro Exodus,1440,Max ,69
-Arc A770,Ryzen 5800X3D,Metro Exodus,2160,Max ,45
-GTX 1080 Ti,Ryzen 5600G OC,Metro Exodus,1080,Max ,76
-GTX 1080 Ti,Ryzen 5600G OC,Metro Exodus,1440,Max ,61
-GTX 1080 Ti,Ryzen 5600G OC,Metro Exodus,2160,Max ,39
-GTX 1080 Ti,Ryzen 5800X3D,Metro Exodus,1080,Ultra,78
-GTX 1080 Ti,Ryzen 5800X3D,Metro Exodus,1440,Ultra,61
-GTX 1080 Ti,Ryzen 5800X3D,Metro Exodus,2160,Ultra,38
-Arc A770,Ryzen 5600G OC,Metro Redux 2033,1080,Max ,123
-Arc A770,Ryzen 5600G OC,Metro Redux 2033,1440,Max ,84
-Arc A770,Ryzen 5600G OC,Metro Redux 2033,2160,Max ,42
-Arc A770,Ryzen 5800X3D,Metro Redux 2033,1080,Max ,
-Arc A770,Ryzen 5800X3D,Metro Redux 2033,1440,Max ,
-Arc A770,Ryzen 5800X3D,Metro Redux 2033,2160,Max ,
-GTX 1080 Ti,Ryzen 5600G OC,Metro Redux 2033,1080,Max ,101
-GTX 1080 Ti,Ryzen 5600G OC,Metro Redux 2033,1440,Max ,62
-GTX 1080 Ti,Ryzen 5600G OC,Metro Redux 2033,2160,Max ,28
-GTX 1080 Ti,Ryzen 5800X3D,Metro Redux 2033,1080,Max ,102
-GTX 1080 Ti,Ryzen 5800X3D,Metro Redux 2033,1440,Max ,62
-GTX 1080 Ti,Ryzen 5800X3D,Metro Redux 2033,2160,Max ,28
-Arc A770,Ryzen 5600G OC,Rise of the Tomb Raider,1080,Max SMAA,133
-Arc A770,Ryzen 5600G OC,Rise of the Tomb Raider,1440,Max SMAA,95
-Arc A770,Ryzen 5600G OC,Rise of the Tomb Raider,2160,Max SMAA,53
-Arc A770,Ryzen 5800X3D,Rise of the Tomb Raider,1080,Max SMAA,132
-Arc A770,Ryzen 5800X3D,Rise of the Tomb Raider,1440,Max SMAA,95
-Arc A770,Ryzen 5800X3D,Rise of the Tomb Raider,2160,Max SMAA,52
-GTX 1080 Ti,Ryzen 5600G OC,Rise of the Tomb Raider,1080,Max SMAA,153
-GTX 1080 Ti,Ryzen 5600G OC,Rise of the Tomb Raider,1440,Max SMAA,111
-GTX 1080 Ti,Ryzen 5600G OC,Rise of the Tomb Raider,2160,Max SMAA,60
-GTX 1080 Ti,Ryzen 5800X3D,Rise of the Tomb Raider,1080,Max SMAA,158
-GTX 1080 Ti,Ryzen 5800X3D,Rise of the Tomb Raider,1440,Max SMAA,107
-GTX 1080 Ti,Ryzen 5800X3D,Rise of the Tomb Raider,2160,Max SMAA,57
-Arc A770,Ryzen 5600G OC,Shadow of the Tomb Raider,1080,Max SMAAT2x,112
-Arc A770,Ryzen 5600G OC,Shadow of the Tomb Raider,1440,Max SMAAT2x,82
-Arc A770,Ryzen 5600G OC,Shadow of the Tomb Raider,2160,Max SMAAT2x,44
-Arc A770,Ryzen 5800X3D,Shadow of the Tomb Raider,1080,Max SMAAT2x,108
-Arc A770,Ryzen 5800X3D,Shadow of the Tomb Raider,1440,Max SMAAT2x,79
-Arc A770,Ryzen 5800X3D,Shadow of the Tomb Raider,2160,Max SMAAT2x,44
-GTX 1080 Ti,Ryzen 5600G OC,Shadow of the Tomb Raider,1080,Max SMAAT2x,109
-GTX 1080 Ti,Ryzen 5600G OC,Shadow of the Tomb Raider,1440,Max SMAAT2x,75
-GTX 1080 Ti,Ryzen 5600G OC,Shadow of the Tomb Raider,2160,Max SMAAT2x,39
-GTX 1080 Ti,Ryzen 5800X3D,Shadow of the Tomb Raider,1080,Max SMAAT2x,111
-GTX 1080 Ti,Ryzen 5800X3D,Shadow of the Tomb Raider,1440,Max SMAAT2x,76
-GTX 1080 Ti,Ryzen 5800X3D,Shadow of the Tomb Raider,2160,Max SMAAT2x,40
-Arc A770,Ryzen 5600G OC,Thief,1080,Very High,73
-Arc A770,Ryzen 5600G OC,Thief,1440,Very High,73
-Arc A770,Ryzen 5600G OC,Thief,2160,Very High,63
-Arc A770,Ryzen 5800X3D,Thief,1080,Very High,90
-Arc A770,Ryzen 5800X3D,Thief,1440,Very High,87
-Arc A770,Ryzen 5800X3D,Thief,2160,Very High,68
-GTX 1080 Ti,Ryzen 5600G OC,Thief,1080,Very High,161
-GTX 1080 Ti,Ryzen 5600G OC,Thief,1440,Very High,124
-GTX 1080 Ti,Ryzen 5600G OC,Thief,2160,Very High,72
-GTX 1080 Ti,Ryzen 5800X3D,Thief,1080,Very High,173
-GTX 1080 Ti,Ryzen 5800X3D,Thief,1440,Very High,131
-GTX 1080 Ti,Ryzen 5800X3D,Thief,2160,Very High,73
-Arc A770,Ryzen 5600G OC,Wolfenstein Youngblood,1080,Mein Leben!,222
-Arc A770,Ryzen 5600G OC,Wolfenstein Youngblood,1440,Mein Leben!,152
-Arc A770,Ryzen 5600G OC,Wolfenstein Youngblood,2160,Mein Leben!,87
-Arc A770,Ryzen 5800X3D,Wolfenstein Youngblood,1080,Mein Leben!,218
-Arc A770,Ryzen 5800X3D,Wolfenstein Youngblood,1440,Mein Leben!,154
-Arc A770,Ryzen 5800X3D,Wolfenstein Youngblood,2160,Mein Leben!,89
-GTX 1080 Ti,Ryzen 5600G OC,Wolfenstein Youngblood,1080,Mein Leben!,198
-GTX 1080 Ti,Ryzen 5600G OC,Wolfenstein Youngblood,1440,Mein Leben!,133
-GTX 1080 Ti,Ryzen 5600G OC,Wolfenstein Youngblood,2160,Mein Leben!,77
-GTX 1080 Ti,Ryzen 5800X3D,Wolfenstein Youngblood,1080,Mein Leben!,199
-GTX 1080 Ti,Ryzen 5800X3D,Wolfenstein Youngblood,1440,Mein Leben!,136
-GTX 1080 Ti,Ryzen 5800X3D,Wolfenstein Youngblood,2160,Mein Leben!,78
+graphics_card,cpu,benchmark,resolution,FPS
+Arc A770,Ryzen 5600G OC,Assassin's Creed Odyssey,1080,48
+Arc A770,Ryzen 5600G OC,Assassin's Creed Odyssey,1440,47
+Arc A770,Ryzen 5600G OC,Assassin's Creed Odyssey,2160,33
+Arc A770,Ryzen 5800X3D,Assassin's Creed Odyssey,1080,56
+Arc A770,Ryzen 5800X3D,Assassin's Creed Odyssey,1440,50
+Arc A770,Ryzen 5800X3D,Assassin's Creed Odyssey,2160,36
+GTX 1080 Ti,Ryzen 5600G OC,Assassin's Creed Odyssey,1080,69
+GTX 1080 Ti,Ryzen 5600G OC,Assassin's Creed Odyssey,1440,54
+GTX 1080 Ti,Ryzen 5600G OC,Assassin's Creed Odyssey,2160,37
+GTX 1080 Ti,Ryzen 5800X3D,Assassin's Creed Odyssey,1080,74
+GTX 1080 Ti,Ryzen 5800X3D,Assassin's Creed Odyssey,1440,60
+GTX 1080 Ti,Ryzen 5800X3D,Assassin's Creed Odyssey,2160,40
+Arc A770,Ryzen 5600G OC,Assassin's Creed Valhalla,1080,73
+Arc A770,Ryzen 5600G OC,Assassin's Creed Valhalla,1440,63
+Arc A770,Ryzen 5600G OC,Assassin's Creed Valhalla,2160,39
+Arc A770,Ryzen 5800X3D,Assassin's Creed Valhalla,1080,73
+Arc A770,Ryzen 5800X3D,Assassin's Creed Valhalla,1440,61
+Arc A770,Ryzen 5800X3D,Assassin's Creed Valhalla,2160,38
+GTX 1080 Ti,Ryzen 5600G OC,Assassin's Creed Valhalla,1080,72
+GTX 1080 Ti,Ryzen 5600G OC,Assassin's Creed Valhalla,1440,57
+GTX 1080 Ti,Ryzen 5600G OC,Assassin's Creed Valhalla,2160,34
+GTX 1080 Ti,Ryzen 5800X3D,Assassin's Creed Valhalla,1080,76
+GTX 1080 Ti,Ryzen 5800X3D,Assassin's Creed Valhalla,1440,61
+GTX 1080 Ti,Ryzen 5800X3D,Assassin's Creed Valhalla,2160,35
+Arc A770,Ryzen 5600G OC,Callisto Protocol,1080,84
+Arc A770,Ryzen 5600G OC,Callisto Protocol,1440,68
+Arc A770,Ryzen 5600G OC,Callisto Protocol,2160,46
+Arc A770,Ryzen 5800X3D,Callisto Protocol,1080,86
+Arc A770,Ryzen 5800X3D,Callisto Protocol,1440,69
+Arc A770,Ryzen 5800X3D,Callisto Protocol,2160,47
+GTX 1080 Ti,Ryzen 5600G OC,Callisto Protocol,1080,69
+GTX 1080 Ti,Ryzen 5600G OC,Callisto Protocol,1440,55
+GTX 1080 Ti,Ryzen 5600G OC,Callisto Protocol,2160,38
+GTX 1080 Ti,Ryzen 5800X3D,Callisto Protocol,1080,71
+GTX 1080 Ti,Ryzen 5800X3D,Callisto Protocol,1440,57
+GTX 1080 Ti,Ryzen 5800X3D,Callisto Protocol,2160,38
+Arc A770,Ryzen 5600G OC,Cyberpunk 2077,1080,64
+Arc A770,Ryzen 5600G OC,Cyberpunk 2077,1440,46
+Arc A770,Ryzen 5600G OC,Cyberpunk 2077,2160,37
+Arc A770,Ryzen 5800X3D,Cyberpunk 2077,1080,70
+Arc A770,Ryzen 5800X3D,Cyberpunk 2077,1440,57
+Arc A770,Ryzen 5800X3D,Cyberpunk 2077,2160,38
+GTX 1080 Ti,Ryzen 5600G OC,Cyberpunk 2077,1080,86
+GTX 1080 Ti,Ryzen 5600G OC,Cyberpunk 2077,1440,61
+GTX 1080 Ti,Ryzen 5600G OC,Cyberpunk 2077,2160,34
+GTX 1080 Ti,Ryzen 5800X3D,Cyberpunk 2077,1080,88
+GTX 1080 Ti,Ryzen 5800X3D,Cyberpunk 2077,1440,61
+GTX 1080 Ti,Ryzen 5800X3D,Cyberpunk 2077,2160,34
+Arc A770,Ryzen 5600G OC,Hitman World of Assassination,1080,171
+Arc A770,Ryzen 5600G OC,Hitman World of Assassination,1440,116
+Arc A770,Ryzen 5600G OC,Hitman World of Assassination,2160,63
+Arc A770,Ryzen 5800X3D,Hitman World of Assassination,1080,168
+Arc A770,Ryzen 5800X3D,Hitman World of Assassination,1440,114
+Arc A770,Ryzen 5800X3D,Hitman World of Assassination,2160,62
+GTX 1080 Ti,Ryzen 5600G OC,Hitman World of Assassination,1080,154
+GTX 1080 Ti,Ryzen 5600G OC,Hitman World of Assassination,1440,96
+GTX 1080 Ti,Ryzen 5600G OC,Hitman World of Assassination,2160,55
+GTX 1080 Ti,Ryzen 5800X3D,Hitman World of Assassination,1080,154
+GTX 1080 Ti,Ryzen 5800X3D,Hitman World of Assassination,1440,96
+GTX 1080 Ti,Ryzen 5800X3D,Hitman World of Assassination,2160,53
+Arc A770,Ryzen 5600G OC,Horizon Zero Dawn,1080,73
+Arc A770,Ryzen 5600G OC,Horizon Zero Dawn,1440,71
+Arc A770,Ryzen 5600G OC,Horizon Zero Dawn,2160,47
+Arc A770,Ryzen 5800X3D,Horizon Zero Dawn,1080,92
+Arc A770,Ryzen 5800X3D,Horizon Zero Dawn,1440,82
+Arc A770,Ryzen 5800X3D,Horizon Zero Dawn,2160,47
+GTX 1080 Ti,Ryzen 5600G OC,Horizon Zero Dawn,1080,92
+GTX 1080 Ti,Ryzen 5600G OC,Horizon Zero Dawn,1440,75
+GTX 1080 Ti,Ryzen 5600G OC,Horizon Zero Dawn,2160,43
+GTX 1080 Ti,Ryzen 5800X3D,Horizon Zero Dawn,1080,95
+GTX 1080 Ti,Ryzen 5800X3D,Horizon Zero Dawn,1440,75
+GTX 1080 Ti,Ryzen 5800X3D,Horizon Zero Dawn,2160,43
+Arc A770,Ryzen 5600G OC,Metro Exodus,1080,82
+Arc A770,Ryzen 5600G OC,Metro Exodus,1440,69
+Arc A770,Ryzen 5600G OC,Metro Exodus,2160,46
+Arc A770,Ryzen 5800X3D,Metro Exodus,1080,84
+Arc A770,Ryzen 5800X3D,Metro Exodus,1440,69
+Arc A770,Ryzen 5800X3D,Metro Exodus,2160,45
+GTX 1080 Ti,Ryzen 5600G OC,Metro Exodus,1080,76
+GTX 1080 Ti,Ryzen 5600G OC,Metro Exodus,1440,61
+GTX 1080 Ti,Ryzen 5600G OC,Metro Exodus,2160,39
+GTX 1080 Ti,Ryzen 5800X3D,Metro Exodus,1080,78
+GTX 1080 Ti,Ryzen 5800X3D,Metro Exodus,1440,61
+GTX 1080 Ti,Ryzen 5800X3D,Metro Exodus,2160,38
+Arc A770,Ryzen 5600G OC,Metro Redux 2033,1080,123
+Arc A770,Ryzen 5600G OC,Metro Redux 2033,1440,84
+Arc A770,Ryzen 5600G OC,Metro Redux 2033,2160,42
+Arc A770,Ryzen 5800X3D,Metro Redux 2033,1080,NA
+Arc A770,Ryzen 5800X3D,Metro Redux 2033,1440,NA
+Arc A770,Ryzen 5800X3D,Metro Redux 2033,2160,NA
+GTX 1080 Ti,Ryzen 5600G OC,Metro Redux 2033,1080,101
+GTX 1080 Ti,Ryzen 5600G OC,Metro Redux 2033,1440,62
+GTX 1080 Ti,Ryzen 5600G OC,Metro Redux 2033,2160,28
+GTX 1080 Ti,Ryzen 5800X3D,Metro Redux 2033,1080,102
+GTX 1080 Ti,Ryzen 5800X3D,Metro Redux 2033,1440,62
+GTX 1080 Ti,Ryzen 5800X3D,Metro Redux 2033,2160,28
+Arc A770,Ryzen 5600G OC,Rise of the Tomb Raider,1080,133
+Arc A770,Ryzen 5600G OC,Rise of the Tomb Raider,1440,95
+Arc A770,Ryzen 5600G OC,Rise of the Tomb Raider,2160,53
+Arc A770,Ryzen 5800X3D,Rise of the Tomb Raider,1080,132
+Arc A770,Ryzen 5800X3D,Rise of the Tomb Raider,1440,95
+Arc A770,Ryzen 5800X3D,Rise of the Tomb Raider,2160,52
+GTX 1080 Ti,Ryzen 5600G OC,Rise of the Tomb Raider,1080,153
+GTX 1080 Ti,Ryzen 5600G OC,Rise of the Tomb Raider,1440,111
+GTX 1080 Ti,Ryzen 5600G OC,Rise of the Tomb Raider,2160,60
+GTX 1080 Ti,Ryzen 5800X3D,Rise of the Tomb Raider,1080,158
+GTX 1080 Ti,Ryzen 5800X3D,Rise of the Tomb Raider,1440,107
+GTX 1080 Ti,Ryzen 5800X3D,Rise of the Tomb Raider,2160,57
+Arc A770,Ryzen 5600G OC,Shadow of the Tomb Raider,1080,112
+Arc A770,Ryzen 5600G OC,Shadow of the Tomb Raider,1440,82
+Arc A770,Ryzen 5600G OC,Shadow of the Tomb Raider,2160,44
+Arc A770,Ryzen 5800X3D,Shadow of the Tomb Raider,1080,108
+Arc A770,Ryzen 5800X3D,Shadow of the Tomb Raider,1440,79
+Arc A770,Ryzen 5800X3D,Shadow of the Tomb Raider,2160,44
+GTX 1080 Ti,Ryzen 5600G OC,Shadow of the Tomb Raider,1080,109
+GTX 1080 Ti,Ryzen 5600G OC,Shadow of the Tomb Raider,1440,75
+GTX 1080 Ti,Ryzen 5600G OC,Shadow of the Tomb Raider,2160,39
+GTX 1080 Ti,Ryzen 5800X3D,Shadow of the Tomb Raider,1080,111
+GTX 1080 Ti,Ryzen 5800X3D,Shadow of the Tomb Raider,1440,76
+GTX 1080 Ti,Ryzen 5800X3D,Shadow of the Tomb Raider,2160,40
+Arc A770,Ryzen 5600G OC,Thief,1080,73
+Arc A770,Ryzen 5600G OC,Thief,1440,73
+Arc A770,Ryzen 5600G OC,Thief,2160,63
+Arc A770,Ryzen 5800X3D,Thief,1080,90
+Arc A770,Ryzen 5800X3D,Thief,1440,87
+Arc A770,Ryzen 5800X3D,Thief,2160,68
+GTX 1080 Ti,Ryzen 5600G OC,Thief,1080,161
+GTX 1080 Ti,Ryzen 5600G OC,Thief,1440,124
+GTX 1080 Ti,Ryzen 5600G OC,Thief,2160,72
+GTX 1080 Ti,Ryzen 5800X3D,Thief,1080,173
+GTX 1080 Ti,Ryzen 5800X3D,Thief,1440,131
+GTX 1080 Ti,Ryzen 5800X3D,Thief,2160,73
+Arc A770,Ryzen 5600G OC,Wolfenstein Youngblood,1080,222
+Arc A770,Ryzen 5600G OC,Wolfenstein Youngblood,1440,152
+Arc A770,Ryzen 5600G OC,Wolfenstein Youngblood,2160,87
+Arc A770,Ryzen 5800X3D,Wolfenstein Youngblood,1080,218
+Arc A770,Ryzen 5800X3D,Wolfenstein Youngblood,1440,154
+Arc A770,Ryzen 5800X3D,Wolfenstein Youngblood,2160,89
+GTX 1080 Ti,Ryzen 5600G OC,Wolfenstein Youngblood,1080,198
+GTX 1080 Ti,Ryzen 5600G OC,Wolfenstein Youngblood,1440,133
+GTX 1080 Ti,Ryzen 5600G OC,Wolfenstein Youngblood,2160,77
+GTX 1080 Ti,Ryzen 5800X3D,Wolfenstein Youngblood,1080,199
+GTX 1080 Ti,Ryzen 5800X3D,Wolfenstein Youngblood,1440,136
+GTX 1080 Ti,Ryzen 5800X3D,Wolfenstein Youngblood,2160,78

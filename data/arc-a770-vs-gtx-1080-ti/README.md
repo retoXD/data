@@ -19,16 +19,30 @@ TODO: Add video link
 
 - **graphics_card** [character]: Intel Arc A770 or GTX 1080 Ti
 - **cpu** [character]: Ryzen 5800X3D or Ryzen 5600G OC (overclocked)
-- **benchmark** [character]: Game Benchmark
+- **benchmark** [character]: Game benchmark
 - **resolution** [double]: Resolution (render resolution may be affected by upscaler)
-- **settings** [character]: Graphics preset
 - **FPS** [double]: Benchmark result in average FPS
 
-|graphics_card |cpu            |benchmark                | resolution|settings   | FPS|
-|:-------------|:--------------|:------------------------|----------:|:----------|---:|
-|Arc A770      |Ryzen 5600G OC |Assassin's Creed Odyssey |       1080|Ultra High |  48|
-|Arc A770      |Ryzen 5600G OC |Assassin's Creed Odyssey |       1440|Ultra High |  47|
-|Arc A770      |Ryzen 5600G OC |Assassin's Creed Odyssey |       2160|Ultra High |  33|
-|Arc A770      |Ryzen 5800X3D  |Assassin's Creed Odyssey |       1080|Ultra High |  56|
-|Arc A770      |Ryzen 5800X3D  |Assassin's Creed Odyssey |       1440|Ultra High |  50|
+|graphics_card |cpu            |benchmark                | resolution| FPS|
+|:-------------|:--------------|:------------------------|----------:|---:|
+|Arc A770      |Ryzen 5600G OC |Assassin's Creed Odyssey |       1080|  48|
+|Arc A770      |Ryzen 5600G OC |Assassin's Creed Odyssey |       1440|  47|
+|Arc A770      |Ryzen 5600G OC |Assassin's Creed Odyssey |       2160|  33|
+|Arc A770      |Ryzen 5800X3D  |Assassin's Creed Odyssey |       1080|  56|
+|Arc A770      |Ryzen 5800X3D  |Assassin's Creed Odyssey |       1440|  50|
 
+## Benchmark Settings (benchmark_settings.csv)
+
+12 observations of 3 variables.
+
+- **benchmark** [character]: Game benchmark
+- **settings** [character]: Graphics preset
+- **gfx_api** [character]: One of DX11, DX12, Vulkan
+
+|benchmark                     |settings   |gfx_api |
+|:-----------------------------|:----------|:-------|
+|Assassin's Creed Odyssey      |Ultra High |DX11    |
+|Assassin's Creed Valhalla     |Ultra High |DX12    |
+|Callisto Protocol             |Ultra      |DX12    |
+|Cyberpunk 2077                |High       |DX12    |
+|Hitman World of Assassination |Max        |DX12    |
