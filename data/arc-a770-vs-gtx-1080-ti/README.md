@@ -11,7 +11,7 @@ by the CPU.
 * For the sake of time efficiency on my part, I only ran benchmarks once.
 * Intel Driver 31.0.101.4146
 
-TODO: Add video link
+[![Time to Buy Intel Arc or Return It?](https://img.youtube.com/vi/wps6JQ26xlM/0.jpg)](https://youtu.be/wps6JQ26xlM)
 
 ## Arc A770 Vs Gtx 1080 Ti (Arc-A770-vs-GTX-1080-Ti.csv)
 
