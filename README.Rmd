@@ -14,20 +14,18 @@ library(tidyverse)
 
 datasets <- tibble(data_path = dir_ls("data"))
 
-datasets %>% 
+df <- 
+  map_dfr(datasets$data_path, ~ jsonlite::read_json(path(., "metadata.json"), simplify = TRUE)) %>% 
+  mutate(data_path = datasets$data_path)
+
+df %>% 
   mutate(
-    name = data_path %>% 
-      str_remove("data/") %>% 
-      str_replace_all("-", " ") %>% 
-      str_to_title(),
     data_files = map_dbl(data_path, ~ length(list.files(path(., "data")))), 
     link = map2(name, data_path, function(n, d) {
      str_interp("[${n}](${path('/', d)})")
-    }),
-    date_added = Sys.Date() #TODO
+    })
   ) %>% 
-  select(dataset = link, files = data_files, date_added) %>% 
+  select(dataset = link, files = data_files, date_added, date_updated, sources) %>% 
   knitr::kable()
 
 ```
-
